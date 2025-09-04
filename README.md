@@ -4,14 +4,13 @@
 #### Web Developer
 
 
-I'm a passionate Web Developer and UI/UX Designer with over 5 years of experience in building modern, user-friendly websites. Specializing in WordPress and Elementor, I bring both design and functionality together to create websites that perform well, look great, and convert visitors into customers.
-With a strong understanding of HTML, CSS, JavaScript, and various WordPress tools and plugins, I help businesses and individuals establish a strong online presence. Whether it's a corporate site, portfolio, blog, or eCommerce store – I can bring your vision to life.
+Hello! I’m Rasu, a professional Web Designer & Developer specializing in WordPress and Squarespace. Since 2019, I’ve been building modern, responsive websites — from elegant landing pages to full-featured e-commerce stores. With expertise in JavaScript, Bootstrap, HTML5, and CSS, I deliver clean, user-friendly, and high-performing solutions. My focus is on helping businesses achieve a strong online presence while ensuring clients are fully satisfied with results that align with their goals.
 
 Skills: REACT / JS / HTML / CSS / PHP
 
 - 🔭 I’m currently working on Fiverr 
 - 🌱 I’m currently learning JavaScript 
-- 👯 I’m looking to collaborate on Github 
+- 👯 I’m looking to collaborate on GitHub 
 - 💬 Ask me about Web Development 
 
 
