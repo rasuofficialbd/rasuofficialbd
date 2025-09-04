@@ -20,6 +20,5 @@ Skills: REACT / JS / HTML / CSS / PHP
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=rasuofficialbd&show_icons=true&count_private=true)  
 
-![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/rasuofficialbd/contributions?format=svg&private=true)  
 
 
