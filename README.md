@@ -1,4 +1,4 @@
-![Web Developer]([https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png](https://media.licdn.com/dms/image/v2/D5616AQHaTqwW7Jocrw/profile-displaybackgroundimage-shrink_350_1400/B56ZhP_ot8HcAc-/0/1753688746646?e=1759968000&v=beta&t=M2zH67S6eTt4W9rk6oP5hVqvbdeMN_H6QNsNTlOGUqI))
+
 
 ### Hi there 👋, I'm Rashed
 #### Web Developer
