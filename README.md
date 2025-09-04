@@ -25,5 +25,3 @@ Skills: REACT / JS / HTML / CSS / PHP
 
 ![GitHub metrics](https://metrics.lecoq.io/rasuofficialbd)  
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=rasuofficialbd)  
-
